@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Dwayne_The_Rock_Johnson_-_Tallenge_Sports_Gym_Poster_Collection_0cf12f2c-338e-4762-bb4f-f6e9c0574805.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

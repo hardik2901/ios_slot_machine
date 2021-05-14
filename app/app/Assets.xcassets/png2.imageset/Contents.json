@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "223-2237244_download-facebook-logo-free-png-transparent-image-and-find-us-on-facebook.png@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "223-2237244_download-facebook-logo-free-png-transparent-image-and-find-us-on-facebook.png@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "223-2237244_download-facebook-logo-free-png-transparent-image-and-find-us-on-facebook.png@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
